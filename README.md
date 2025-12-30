@@ -1,1 +1,5 @@
-# ff-guild-glory-bot5
+ff-guild-glory-bot/
+│── index.js
+│── package.json   ✅
+│── guild.json
+│── README.md
